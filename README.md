@@ -77,5 +77,4 @@ These are all the tasks of this project, the ones that are completed link to the
 ### 16. * 
 * All the above options work well together
 ---
-# Author: 
-[Wisdom Isaac Oku] and [Adebempe adetoyinbo]
+# Author [Olorunfemi Temitope] and [Iyanu Ajimobi]
